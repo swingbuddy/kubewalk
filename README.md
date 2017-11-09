@@ -27,3 +27,11 @@ For the moment have to
     sh kubewalk/boot.sh
     
 or something similar.
+
+
+[] Need to workout how to capture the command like
+
+    kubeadm join --token e08c7c.28414f151ed31a6a 10.0.6.4:6443
+    
+so we can echo it at the end of all our verbiage so it can easily be copied/
+pasted into the other additional instances.
