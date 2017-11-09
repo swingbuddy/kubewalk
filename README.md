@@ -12,9 +12,15 @@ Installation
 
 Want something like
 
-    curl https://github.com/swingbuddy/kubewalk/boot.sh
+    curl https://github.com/swingbuddy/kubewalk/boot.sh | sh
+
+though it would actually be
+ 
+    curl https://raw.githubusercontent.com/swingbuddy/kubewalk/master/boot.sh | sh 
     
-but for the moment have to 
+which isn't great to type.
+
+For the moment have to 
 
     yum install -y git
     git clone https://github.com/swingbuddy/kubewalk.git
