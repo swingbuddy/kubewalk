@@ -19,4 +19,5 @@ kubectl apply -n kube-system -f \
     
     
 # 020 Install a bunch of packages to make a nicer working environment
-yum install -y git less vim which
+yum install -y git less vim which file
+
