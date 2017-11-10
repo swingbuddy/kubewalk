@@ -9,3 +9,6 @@ Add a full stack app like the one on
 [testdriven.io](https://testdriven.io/)
 
 Add some java based examples
+
+Look at Linkerd:
+[A service mesh for Kubernetes](https://buoyant.io/2016/10/04/a-service-mesh-for-kubernetes-part-i-top-line-service-metrics/)
