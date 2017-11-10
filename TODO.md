@@ -11,4 +11,6 @@ Add a full stack app like the one on
 Add some java based examples
 
 Look at Linkerd:
-[A service mesh for Kubernetes](https://buoyant.io/2016/10/04/a-service-mesh-for-kubernetes-part-i-top-line-service-metrics/)
+* [A service mesh for Kubernetes](https://buoyant.io/2016/10/04/a-service-mesh-for-kubernetes-part-i-top-line-service-metrics/)
+* [Linkerd on k8s](https://linkerd.io/getting-started/k8s/)
+
